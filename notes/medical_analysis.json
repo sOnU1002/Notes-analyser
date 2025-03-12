@@ -1,0 +1,109 @@
+{
+    "Medical_Details": {
+        "Symptoms": [
+            "back pain",
+            "painkillers regularly",
+            "lingering pain",
+            "whiplash injury",
+            "backaches",
+            "discomfort",
+            "pain",
+            "stiffness"
+        ],
+        "Diagnosis": [],
+        "Treatment": [
+            "sessions",
+            "physiotherapy"
+        ],
+        "Prognosis": [
+            "degeneration",
+            "recovery",
+            "long-term",
+            "worsening"
+        ]
+    },
+    "Summarization": "i was driving from cheadle hulme to manchester when i had to stop in traffic. out of nowhere, another car hit me from behind, which pushed my car into the one in front. i could feel pain in my neck and back almost right away. i had trouble sleeping and had to take painkillers regularly. it started improving after ten sessions of physiotherapy to help with the stiffness and discomfort. i don\u2019t feel nervous driving, and i haven \u2019t had any emotional issues from the accident. i had to take a week off work, but after that, i was back to my usual routine. your muscles and spine seem to be in good condition. there are no signs of long - term damage or degeneration.",
+    "Sentiment_Intent_Analysis": [
+        {
+            "text": ">  *Good morning, doctor. I\u2019m doing better, but I still have some discomfort now and then.*",
+            "Sentiment": "Anxious",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *Yes, it was on September 1st, around 12:30 in the afternoon. I was driving from Cheadle Hulme to Manchester when I had to stop in traffic. Out of nowhere, another car hit me from behind, which pushed my car into the one in front.*",
+            "Sentiment": "Anxious",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *Yes, I always do.*",
+            "Sentiment": "Reassured",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *At first, I was just shocked. But then I realized I had hit my head on the steering wheel, and I could feel pain in my neck and back almost right away.*",
+            "Sentiment": "Anxious",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *Yes, I went to Moss Bank Accident and Emergency. They checked me over and said it was a whiplash injury, but they didn\u2019t do any X-rays. They just gave me some advice and sent me home.*",
+            "Sentiment": "Anxious",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *The first four weeks were rough. My neck and back pain were really bad\u2014I had trouble sleeping and had to take painkillers regularly. It started improving after that, but I had to go through ten sessions of physiotherapy to help with the stiffness and discomfort.*",
+            "Sentiment": "Anxious",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *It\u2019s not constant, but I do get occasional backaches. It\u2019s nothing like before, though.*",
+            "Sentiment": "Anxious",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *No, nothing like that. I don\u2019t feel nervous driving, and I haven\u2019t had any emotional issues from the accident.*",
+            "Sentiment": "Reassured",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *I had to take a week off work, but after that, I was back to my usual routine. It hasn\u2019t really stopped me from doing anything.*",
+            "Sentiment": "Anxious",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *That\u2019s a relief!*",
+            "Sentiment": "Reassured",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *That\u2019s great to hear. So, I don\u2019t need to worry about this affecting me in the future?*",
+            "Sentiment": "Reassured",
+            "Intent": "Reporting symptoms"
+        },
+        {
+            "text": ">  *Thank you, doctor. I appreciate it.*",
+            "Sentiment": "Reassured",
+            "Intent": "Reporting symptoms"
+        }
+    ],
+    "SOAP_Note": {
+        "Subjective": {
+            "Chief_Complaint": "Neck and back pain",
+            "History_of_Present_Illness": "i was driving from cheadle hulme to manchester when i had to stop in traffic. out of nowhere, another car hit me from behind, which pushed my car into the one in front. i could feel pain in my neck and back almost right away. i had trouble sleeping and had to take painkillers regularly. it started improving after ten sessions of physiotherapy to help with the stiffness and discomfort. i don\u2019t feel nervous driving, and i haven \u2019t had any emotional issues from the accident. i had to take a week off work, but after that, i was back to my usual routine. your muscles and spine seem to be in good condition. there are no signs of long - term damage or degeneration."
+        },
+        "Objective": {
+            "Physical_Exam": "Full range of motion in cervical and lumbar spine, no tenderness.",
+            "Observations": "Patient appears in normal health, normal gait."
+        },
+        "Assessment": {
+            "Diagnosis": [],
+            "Severity": "Mild, improving"
+        },
+        "Plan": {
+            "Treatment": [
+                "sessions",
+                "physiotherapy"
+            ],
+            "Follow-Up": "Patient to return if pain worsens or persists beyond six months."
+        }
+    }
+}
