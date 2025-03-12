@@ -51,6 +51,6 @@ streamlit run app.py
 
 ![Medical NLP App](https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%20(28).png)
 ![Medical NLP App](https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%20(29).png)
-
-
+![Medical NLP App](https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%20(30).png)
+![Medical NLP App](https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%202025-03-12%20101219.png)
 
