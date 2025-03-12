@@ -49,8 +49,8 @@ streamlit run app.py
 ### **4️⃣ SOAP Note Generation**  
 - Converts extracted medical data into the **SOAP (Subjective, Objective, Assessment, Plan) format** for structured medical documentation.  
 
-![Medical NLP App]([https://i.imgur.com/example.png](https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%20(28).png))
-![Medical NLP App]([https://i.imgur.com/example.png]([https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%20(28).png](https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%20(29).png)))
+![Medical NLP App]([https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%20(28).png])
+![Medical NLP App]([https://github.com/sOnU1002/Notes-analyser/blob/main/notes/Screenshot%20(29).png])
 
 
 
