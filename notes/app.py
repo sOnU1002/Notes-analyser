@@ -7,7 +7,7 @@ import torch
 
 # Load SciSpaCy Medical Model
 
-
+nlp = spacy.load("en_core_sci_md")
 
 model_name = r"D:/ana/biobert-base-cased-v1.2"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
